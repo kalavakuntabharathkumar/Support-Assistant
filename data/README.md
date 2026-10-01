@@ -1,0 +1,1 @@
+Add one JSON object per line with fields: `id`, `title`, `content`, and `url`. Keep source URLs and licensing metadata for your corpus.
